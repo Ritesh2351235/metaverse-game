@@ -3,6 +3,7 @@ Game built on the Javascript enabling real time movement of characters using web
 ### Tech Stack
 - Vite(React)
 - Javascript
+- Typescript
 - Jest (Test Driven Development)
 - Websocket
 - Postgresql

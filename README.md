@@ -4,6 +4,7 @@ Game built on the Javascript enabling real time movement of characters using web
 - Vite(React)
 - Javascript
 - Typescript
+- Express
 - Jest (Test Driven Development)
 - Websocket
 - Postgresql

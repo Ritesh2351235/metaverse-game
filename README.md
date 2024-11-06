@@ -5,7 +5,7 @@ Game built on the Javascript enabling real time movement of characters using web
 - Javascript
 - Typescript
 - Express
-- 
+- Shadcn Components
 - Jest (Test Driven Development)
 - Websocket
 - Postgresql

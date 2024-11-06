@@ -5,10 +5,11 @@ Game built on the Javascript enabling real time movement of characters using web
 - Javascript
 - Typescript
 - Express
+- 
 - Jest (Test Driven Development)
 - Websocket
 - Postgresql
 - Prisma ORM
-- Node and Express for Backend
+- NodeJS
 - Vercel (Frontend Deployment)
 - Cloudfare (Backend Deployement)
